@@ -8,11 +8,11 @@ package exercice6;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
 /**
  *
  * @author fishe
  */
+
 public class MainRecording {
 
     /**
